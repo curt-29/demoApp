@@ -31,7 +31,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-When reaching the back half of the applcitation, I encountered an exception that would terminate the program. I used stackOverflow 
+When reaching the back half of the application, I encountered an exception that would terminate the program. I used stackOverflow 
 solve this issue, which stemmed from me not reapplying the outlets when I was correcting errors that I had made when naming 
 them.[This is the thread that I found that solved my issue.](https://stackoverflow.com/questions/26442414/libcabi-dylib-terminating-with-uncaught-exception-of-type-nsexception-lldb)
 
